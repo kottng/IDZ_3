@@ -124,6 +124,23 @@ int main(int argc, char *argv[]) {
         msg_p->type = MSG_TYPE_FINISH;
         exit(1);
     }
+    childpid2 = fork();
+    if (childpid2 < 0) {
+        perror("Error while creating a new process");
+        exit(1);
+    } else if (childpid2 == 0) {
+        bytesRead = 0;
+        memset(buffer, 0, sizeof(buffer));
+        do {
+            bytesRead = recv(clientSocket, buffer, sizeof(buffer), 0);
+            if (bytesRead > 1) {
+                printf("a message is received\n");
+                msg_p->type = MSG_TYPE_FINISH;
+            }
+            sleep(1);
+        } while (bytesRead < 2 && msg_p->type != MSG_TYPE_FINISH);
+        exit(1);
+    }
 
     for (int i = 0; i < 2; ++i) {
         int status;
