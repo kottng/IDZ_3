@@ -58,25 +58,25 @@
 - Запуск и вывод сервера:
 
 
-![alt text](https://github.com/kottng/OS_IDZ_4/blob/main/server.png)
+![alt text](https://github.com/kottng/IDZ_3/blob/main/server.png)
 
 
 - Запуск и вывод первого клиента:
 
 
-![alt text](https://github.com/kottng/OS_IDZ_4/blob/main/client_1_4_5.png)
+![alt text](https://github.com/kottng/IDZ_3/blob/main/client_1_4_5.png)
 
 
 - Запуск и вывод второго клиента:
 
 
-![alt text](https://github.com/kottng/OS_IDZ_4/blob/main/client_2_4_5.png)
+![alt text](https://github.com/kottng/IDZ_3/blob/main/client_2_4_5.png)
 
 
 - Запуск и вывод третьего клиента:
 
 
-![alt text](https://github.com/kottng/OS_IDZ_4/blob/main/client_3_4_5.png)
+![alt text](https://github.com/kottng/IDZ_3/blob/main/client_3_4_5.png)
 
 
 
@@ -146,34 +146,34 @@
 - Запуск и вывод сервера:
 
 
-![alt text](https://github.com/kottng/OS_IDZ_4/blob/main/server_6_7.png)
+![alt text](https://github.com/kottng/IDZ_3/blob/main/server_6_7.png)
 
 
 - Запуск и вывод первого клиента:
 
 
-![alt text](https://github.com/kottng/OS_IDZ_4/blob/main/client_2_6_7.png)
+![alt text](https://github.com/kottng/IDZ_3/blob/main/client_2_6_7.png)
 
 
 - Запуск и вывод второго клиента:
 
 
-![alt text](https://github.com/kottng/OS_IDZ_4/blob/main/client_1_6_7.png)
+![alt text](https://github.com/kottng/IDZ_3/blob/main/client_1_6_7.png)
 
 
 - Запуск и вывод третьего клиента:
 
 
-![alt text](https://github.com/kottng/OS_IDZ_4/blob/main/client_3_6_7.png)
+![alt text](https://github.com/kottng/IDZ_3/blob/main/client_3_6_7.png)
 
 
 - Запуск и вывод listener 1:
 
 
-![alt text](https://github.com/kottng/OS_IDZ_4/blob/main/listener_1.png)
+![alt text](https://github.com/kottng/IDZ_3/blob/main/listener_1.png)
 
 
 - Запуск и вывод listener 2:
 
 
-![alt text](https://github.com/kottng/OS_IDZ_4/blob/main/listener_2.png)
+![alt text](https://github.com/kottng/IDZ_3/blob/main/listener_2.png)
