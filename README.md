@@ -167,10 +167,13 @@
 ![alt text](https://github.com/kottng/OS_IDZ_4/blob/main/client_3_6_7.png)
 
 
-- Запуск и вывод listener:
+- Запуск и вывод listener 1:
 
 
-![alt text](https://github.com/kottng/OS_IDZ_4/blob/main/outer_6_7.png)
+![alt text](https://github.com/kottng/OS_IDZ_4/blob/main/listener_1.png)
 
 
+- Запуск и вывод listener 2:
 
+
+![alt text](https://github.com/kottng/OS_IDZ_4/blob/main/listener_2.png)
